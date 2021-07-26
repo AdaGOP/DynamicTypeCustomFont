@@ -35,7 +35,6 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="labelGroup" destination="7rW-08-Ol2" id="2Qj-M2-97m"/>
                         <outlet property="txtLabel" destination="yKV-yW-bmt" id="8af-3y-X6g"/>
                     </connections>
                 </viewController>
