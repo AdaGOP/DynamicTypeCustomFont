@@ -8,9 +8,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-
-    @IBOutlet weak var txtLabel: UILabel!
-    var appFont = AppFont()
     
     override func viewDidLoad() {
         super.viewDidLoad()

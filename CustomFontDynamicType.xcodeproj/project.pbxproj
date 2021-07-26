@@ -14,7 +14,6 @@
 		2C717C57269D94F800BA31BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C717C56269D94F800BA31BA /* Assets.xcassets */; };
 		2C717C5A269D94F800BA31BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C717C58269D94F800BA31BA /* LaunchScreen.storyboard */; };
 		2C76A62326A0245A001E0AF4 /* STIXTwoMath-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2C76A62226A0245A001E0AF4 /* STIXTwoMath-Regular.ttf */; };
-		2C76A62526A02472001E0AF4 /* AppFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C76A62426A02472001E0AF4 /* AppFont.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		2C717C59269D94F800BA31BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C717C5B269D94F800BA31BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2C76A62226A0245A001E0AF4 /* STIXTwoMath-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "STIXTwoMath-Regular.ttf"; path = "../../../../../../Downloads/STIX_Two_Math/STIXTwoMath-Regular.ttf"; sourceTree = "<group>"; };
-		2C76A62426A02472001E0AF4 /* AppFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppFont.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +74,6 @@
 			isa = PBXGroup;
 			children = (
 				2C76A62226A0245A001E0AF4 /* STIXTwoMath-Regular.ttf */,
-				2C76A62426A02472001E0AF4 /* AppFont.swift */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -160,7 +157,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C76A62526A02472001E0AF4 /* AppFont.swift in Sources */,
 				2C717C52269D94F500BA31BA /* ViewController.swift in Sources */,
 				2C717C4E269D94F500BA31BA /* AppDelegate.swift in Sources */,
 				2C717C50269D94F500BA31BA /* SceneDelegate.swift in Sources */,
